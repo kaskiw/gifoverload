@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+img {
+    height: 175px;
+}
+
+label {
+    font-size: 50px;
+    color: rgb(38, 166, 154);
+    background-color: white;
+    width: 30%;
+    margin: 10px;
+}
+
+p {
+    background-color: white;
+    width: 20%;
+    font-size: 30px;
+    color: rgb(38, 166, 154);
+    margin: 10px;
+}
+
+#gif-input {
+    border-bottom-width: 6px;
+    width: 60%;
+    background-color: white;
+}
+
+.btn {
+    margin: 20px;
+}
